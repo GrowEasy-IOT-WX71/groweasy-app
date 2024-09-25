@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "groweasy-iot": "groweasy-iot",
+    "default": "groweasy-iot"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
